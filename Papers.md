@@ -1,10 +1,17 @@
 
 
 [1] Rachit Agarwal, Tanmay Thapliyal, and Sandeep K. Shukla. 2021. Detecting Malicious Accounts showing Adversarial Behavior in Permissionless Blockchains. https://doi.org/10.48550/arXiv.2101.11915
+
+
 [2] Sarah Allen, Ari Juels, Mukti Khaire, Tyler Kell, and Siddhant Shrivastava. 2022. NFTs for Art and Collectables: Primer and Outlook. https://doi.org/10.31235/osf.io/gwzd7
+
+
 [3] Katsiaryna Bahamazava and Rohan Nanda. 2022. The shift of DarkNet illegal drug trade preferences in cryptocurrency: The question of traceability and deterrence. Forensic Science International: Digital Investigation 40, (March 2022), 301377. https://doi.org/10.1016/j.fsidi.2022.301377
+
 [4] Yanhu Bai, Zhuodong Yang, Minmin Huang, Mingjun Hu, Shiyu Chen, and Jianli Luo. 2023. How can blockchain technology promote food safety in agricultural market?—an evolutionary game analysis. Environ Sci Pollut Res 30, 40 (July 2023), 93179–93198. https://doi.org/10.1007/s11356-023-28780-7
+
 [5] Richard Banach. Blockchain Applications Beyond the Cryptocurrency Casino: The Punishment not Reward (PnR) Blockchain Architecture. 
+
 [6] Talgar Bayan and Richard Banach. 2024. A Privacy-Preserving DAO Model Using NFT Authentication for the Punishment not Reward Blockchain Architecture. Retrieved October 9, 2024 from http://arxiv.org/abs/2405.13156
 [7] Sean Bowe, Alessandro Chiesa, Matthew Green, Ian Miers, Pratyush Mishra, and Howard Wu. 2020. ZEXE: Enabling Decentralized Private Computation. In 2020 IEEE Symposium on Security and Privacy (SP), May 2020. IEEE, San Francisco, CA, USA, 947–964. https://doi.org/10.1109/SP40000.2020.00050
 [8] Craig Calcaterra. 2018. On-Chain Governance of Decentralized Autonomous Organizations: Blockchain Organization Using Semada. SSRN Journal (2018). https://doi.org/10.2139/ssrn.3188374
