@@ -1,4 +1,5 @@
 
+
 [1] Rachit Agarwal, Tanmay Thapliyal, and Sandeep K. Shukla. 2021. Detecting Malicious Accounts showing Adversarial Behavior in Permissionless Blockchains. https://doi.org/10.48550/arXiv.2101.11915
 [2] Sarah Allen, Ari Juels, Mukti Khaire, Tyler Kell, and Siddhant Shrivastava. 2022. NFTs for Art and Collectables: Primer and Outlook. https://doi.org/10.31235/osf.io/gwzd7
 [3] Katsiaryna Bahamazava and Rohan Nanda. 2022. The shift of DarkNet illegal drug trade preferences in cryptocurrency: The question of traceability and deterrence. Forensic Science International: Digital Investigation 40, (March 2022), 301377. https://doi.org/10.1016/j.fsidi.2022.301377
