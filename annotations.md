@@ -2,6 +2,35 @@
 
 This document outlines the classification taxonomy used to annotate the 107 papers reviewed in our systematic survey "A Systematic Review of Punishment Mechanisms in Web3 and Blockchain Ecosystems."
 
+## Annotation Process Methodology
+
+The annotation process followed a systematic two-step approach:
+
+### Step 1: Keyword-Based Initial Tagging
+We began with keyword searches across the collected papers to identify initial patterns. The search terms were organized by punishment type:
+
+**Social Penalties (SP) Keywords:**  
+`DAO-governance`, `social sanctions`, `reputation systems`, `banning`, `blacklisting`, `warnings`, `whitelisting`, `law enforcement`, `community penalties`
+
+**Monetary Punishments (MP) Keywords:**  
+`financial penalties`, `fines`, `forfeiture`, `slashing`, `staking penalties`, `asset freezing`, `economic sanctions`, `deposit loss`
+
+**Hybrid Punishments (HP) Keywords:**  
+`combined penalties`, `reputation+fine`, `blacklist+forfeit`, `legal+financial`, `multi-layered sanctions`, `escalation mechanisms`
+
+### Step 2: Manual Content Analysis and Refinement
+After initial keyword tagging, we conducted manual content analysis to:
+- Verify keyword matches were contextually appropriate
+- Identify papers that discussed multiple punishment types
+- Refine tags based on the paper's primary contribution
+- Resolve ambiguous cases through consensus review
+- Ensure consistent application of the taxonomy across all 107 papers
+
+This combined approach ensured both systematic coverage (via keywords) and nuanced accuracy (via manual analysis) in our classification.
+
+## Result: PAPER_INDEX.md
+The outcome of this annotation process is documented in the companion file [PAPER_INDEX.md](PAPER_INDEX.md), which provides a comprehensive index of all 107 papers organized by their assigned tags, primary punishment type, and application domain. This index serves as the foundational dataset for our quantitative analysis and cross-domain comparisons.
+
 ## Core Classification Schema
 
 All papers were categorized using a hierarchical tagging system with three primary dimensions:
