@@ -1,6 +1,6 @@
 # Systematic Review: Punishment Mechanisms in Web3 - Annotation Taxonomy
 
-This document outlines the classification taxonomy used to annotate the 107 papers reviewed in our systematic survey "A Systematic Review of Punishment Mechanisms in Web3 and Blockchain Ecosystems."
+This document outlines the classification taxonomy used to annotate the 107 papers reviewed in our systematic survey "Deterring Dishonesty in Web3: A Systematic Review of Punishment Mechanisms in Decentralized Networks."
 
 ## Annotation Process Methodology
 
@@ -21,7 +21,7 @@ We began with keyword searches across the collected papers to identify initial p
 ### Step 2: Manual Content Analysis and Refinement
 After initial keyword tagging, we conducted manual content analysis to:
 - Verify keyword matches were contextually appropriate
-- Identify papers that discussed multiple punishment types
+- Identify papers that discussed punishment types
 - Refine tags based on the paper's primary contribution
 - Resolve ambiguous cases through consensus review
 - Ensure consistent application of the taxonomy across all 107 papers
@@ -37,7 +37,7 @@ All papers were categorized using a hierarchical tagging system with three prima
 
 1. **Punishment Type** (Primary Category)
 2. **Application Scenario** (Domain Context)
-3. **Specific Mechanism** (Technical Implementation)
+3. **Enforcement Mechanism** (Enforcement approach)
 
 ## 1. Punishment Type Categories
 
@@ -91,13 +91,13 @@ All papers were categorized using a hierarchical tagging system with three prima
 
 ## 3. Cross-Cutting Tags
 
-- **Social Punishments**: Generic tag for any social sanction mechanism
-- **Sanctions**: Broad category encompassing all punishment types
+- **Smart contract based enforcement Punishments**: 
+- **Community voting based enforcement**: 
 
 ## Annotation Guidelines
 
 1. **Primary Tag Selection**: Each paper receives at least one punishment type tag (SP/MP/HP)
 2. **Domain Tagging**: All papers receive one or more domain tags
-3. **Mechanism Specificity**: Papers are tagged with the most specific applicable mechanism tags
+3. **Enfocement based**: Papers are tagged with the most specific enforcement mechanism tags
 4. **Multi-tagging**: Papers addressing multiple mechanisms receive multiple tags
 
