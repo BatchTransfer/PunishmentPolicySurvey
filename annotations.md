@@ -35,9 +35,9 @@ The outcome of this annotation process is documented in the companion file [PAPE
 
 All papers were categorized using a hierarchical tagging system with three primary dimensions:
 
-1. **Punishment Type** (Primary Category)
-2. **Application Scenario** (Domain Context)
-3. **Enforcement Mechanism** (Enforcement approach)
+1. **Punishment Type** 
+2. **Application Scenario** 
+3. **Enforcement Mechanism**
 
 ## 1. Punishment Type Categories
 
