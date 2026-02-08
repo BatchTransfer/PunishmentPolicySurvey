@@ -21,7 +21,12 @@ This codebook provides explicit definitions and decision rules for consistently 
 
 **Marketplace:** Digital asset exchanges, NFT platforms, DeFi protocols, and other trading environments.
 
-### 3. Mechanism-Specific Definitions
+### 3. Enforcement Based
+
+**Smart Contract based enforcement.
+
+**Coomunity voting based enforcement 
+
 
 #### Social Penalties (SP)
 - **SP-Ban/Removal:** Complete or temporary exclusion from system participation
@@ -46,8 +51,8 @@ This codebook provides explicit definitions and decision rules for consistently 
 
 ## Decision Rules
 
-### Rule 1: Primary Type Assignment
-Assign the primary punishment type based on the paper's **main contribution**:
+### Rule 1: Type Assignment
+Assign the punishment type based on the paper's **main contribution**:
 - If paper proposes/enhances a monetary mechanism → MP
 - If paper focuses on reputation/social systems → SP  
 - If paper explicitly combines both → HP
@@ -59,10 +64,10 @@ Papers may receive multiple domain tags if they:
 2. Compare mechanisms across domains
 3. Present general frameworks with domain examples
 
-### Rule 3: Mechanism Tagging
+### Rule 3: Enfocrement
 - Tag **all** mechanisms discussed in detail
-- Do not tag mechanisms only mentioned in passing
-- Use most specific applicable tag
+- Smart conract based mentioned enforcement
+- Coomunity voting based enforcement in DAO/Decentralised setup.
 - Add "Law Enforcement" tag if legal frameworks are substantive component
 
 ### Rule 4: Edge Cases
@@ -75,18 +80,6 @@ Papers may receive multiple domain tags if they:
 
 **Case C:** General governance paper with punishment examples
 - **Decision:** Tag by example domains/mechanisms
-
-## Quality Assurance Checks
-
-### Consistency Checks
-1. No paper should have only domain tags without mechanism tags
-2. HP papers must have at least one SP and one MP mechanism tag
-3. Law Enforcement tag should co-occur with at least one other mechanism tag
-
-### Completeness Checks  
-1. All 107 papers must have at least one primary type tag
-2. All papers must have at least one domain tag
-3. Mechanism tags should cover the paper's main contributions
 
 ## Examples with Rationale
 
