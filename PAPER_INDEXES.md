@@ -6,8 +6,8 @@ This index provides a quick reference to all 107 papers included in our systemat
 
 **Total Papers:** 116
 - **Social Penalties (SP):** 36 papers
-- **Monetary Punishments (MP):** 33 papers  
-- **Hybrid Punishments (HP):** 29 papers
+- **Monetary Punishments (MP):** 37 papers  
+- **Hybrid Punishments (HP):** 28 papers
 - **Other/Legal:** 14 papers
 
 ## Annotations Tables
