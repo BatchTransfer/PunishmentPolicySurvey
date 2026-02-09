@@ -12,7 +12,7 @@ This index provides a quick reference to all 107 papers included in our systemat
 
 ## Annotations Tables
 
-### Social Penalties (SP) - 31 papers
+### Social Penalties (SP) - 36 papers
 
 | Paper | Punishment Type | Domain | Mechanism | Additional Tags |
 |-------|-----------------|--------|-----------|-----------------|
