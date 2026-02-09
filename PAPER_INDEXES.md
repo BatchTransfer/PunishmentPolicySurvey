@@ -4,8 +4,8 @@ This index provides a quick reference to all 107 papers included in our systemat
 
 ## Paper Count Summary
 
-**Total Papers:** 107
-- **Social Penalties (SP):** 31 papers
+**Total Papers:** 116
+- **Social Penalties (SP):** 36 papers
 - **Monetary Punishments (MP):** 33 papers  
 - **Hybrid Punishments (HP):** 29 papers
 - **Other/Legal:** 14 papers
@@ -48,6 +48,13 @@ This index provides a quick reference to all 107 papers included in our systemat
 | [30] Haofan Zheng, Tuan Tran, Roy Shadmon, and Owen Arden. 2024. Decentagram: Highly-Available Decentralized Publish/Subscribe Systems. In 2024 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), June 24, 2024. IEEE, Brisbane, Australia, 274–287. https://doi.org/10.1109/DSN58291.2024.00037 | SP | Publish/Subscribe Systems | SP-Revocation | - |
 | [31] Qianwei Zhuang, Yuan Liu, Lisi Chen, and Zhengpeng Ai. 2019. Proof of Reputation: A Reputation-based Consensus Protocol for Blockchain Based Systems. In Proceedings of the 2019 International Electronics Communication Conference, July 07, 2019. ACM, Okinawa Japan, 131–138. https://doi.org/10.1145/3343147.3343169 | SP | Consensus | SP-Reputation | - |
 | [32] Hong Xie, John C. S. Lui, and Don Towsley. 2016. Design and Analysis of Incentive and Reputation Mechanisms for Online Crowdsourcing Systems. ACM Trans. Model. Perform. Eval. Comput. Syst. 1, 3 (May 2016), 1–27. https://doi.org/10.1145/2897510 | SP | Crowdsourcing | SP-Reputation | - |
+| [33] Yunzhen Zhu, Xiaohong Deng, Jiayan Liu, Yijie Zou, Juan Li, and Yuxin Fang. 2026. A novel lightweight medical blockchain data query scheme. Sci Rep 16, 1 (January 2026), 615. https://doi.org/10.1038/s41598-025-30091-5 | SP | Consensus | SP-Reputation | Reputation mechanism |
+| [34] Hope Leticia Nakayiza, Love Allen Chijioke Ahakonye, Dong-Seong Kim, and Jae Min Lee. 2026. PureTrust: A Soulbound Token-Based Blockchain Framework for Incentive-Driven Trust Management in V2X Networks. IEEE Internet Things J. (2026), 1–1. https://doi.org/10.1109/JIOT.2026.3656576 | SP | DAO-SP | SP-Reputation | Enforce-Community based |
+| [35] Dongshan Yang, Ling Zhao, Feng Leng, and Zujun Shi. 2025. Design of knowledge transaction protection mechanism in the open innovation community based on blockchain technology. Data Science and Management 8, 1 (March 2025), 86–93. https://doi.org/10.1016/j.dsm.2024.08.002 | SP | DAO-SP | SP-Reputation | SP-Other(Law enforcement) |
+| [36] [1] Endong Liu, Mark Ryan, Liyi Zhou, and Pascal Berrang. 2025. Evasion Under Blockchain Sanctions. https://doi.org/10.48550/ARXIV.2507.11721 | SP | consensus-SP | SP-Ban, Removal | SP-Other(Law enforcement) |
+
+
+
 
 ### Monetary Penalties (MP) - 33 papers
 
