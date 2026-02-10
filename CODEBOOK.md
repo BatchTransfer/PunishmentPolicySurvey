@@ -98,8 +98,3 @@ Papers may receive multiple domain tags if they:
 - **Tags:** HP, Marketplace-HP, HP-Reputation+Financial Fine, HP-Blacklist+Financial Fine
 - **Rationale:** Combines social (reputation, blacklist) and monetary (fines) penalties
 
-## Version History
-
-- **v1.0** (Initial): Basic taxonomy based on Zotero tags
-- **v1.1** (Current): Added decision rules and examples
-- **Future:** Will expand based on intercoder reliability testing
